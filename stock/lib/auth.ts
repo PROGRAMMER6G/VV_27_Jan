@@ -9,6 +9,11 @@ export const users = [
     username: 'Umesh1234',
     password: 'Umesh123',
     role: 'user'
+  },
+  {
+    username: 'vamshirayala',
+    password: 'vamshi@123',
+    role: 'admin'
   }
 ];
 
